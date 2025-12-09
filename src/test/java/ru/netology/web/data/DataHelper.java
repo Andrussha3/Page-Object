@@ -18,7 +18,7 @@ public class DataHelper {
     }
 
     public static AuthInfo getInvalidLoginAuthInfo() {
-        return new AuthInfo("petya", "qwerty123");
+        return new AuthInfo("ivan", "asdfgh123");
     }
 
     public static CardInfo getFirstCardInfo() {
